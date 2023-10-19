@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 Gayatri-Awate/Gayatri-Awate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Gayatri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayatri-Awate)](https://github.com/Gayatri-Awate/github-readme-stats)
